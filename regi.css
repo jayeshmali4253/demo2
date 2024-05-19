@@ -1,0 +1,40 @@
+h1{
+  color: red;
+
+}
+.form
+{
+  height: 80%;
+  width: 40%;
+  background-color: red;
+  padding-top: 10px;
+  border-radius: 20px;
+  border: solid black;
+  
+}
+.form:hover{
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+input{
+  height: 30px;
+  width:80%;
+  border-radius: 20px;
+  border: none;
+  color: black;
+  
+}
+button{
+  height: 20px;
+  width: 80px;
+   background-color: black;
+  color: white;
+  font-weight: bolder;
+  margin-bottom: 10px;
+
+}
+button:hover{
+  background-color: white;
+  color: black;
+}
